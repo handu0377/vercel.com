@@ -1,12 +1,6 @@
 {
   "functions": {
-    "adminx/*.php": {
-      "runtime": "vercel-php@0.6.0"
-    },
-    "fetch/*.php": {
-      "runtime": "vercel-php@0.6.0"
-    },
-    "tz/*.php": {
+    "api/*.php": {
       "runtime": "vercel-php@0.6.0"
     }
   }
